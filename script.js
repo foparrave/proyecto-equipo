@@ -1,1 +1,1 @@
-// Archivo JavaScript
+alert("Bienvenidos ADSO");
